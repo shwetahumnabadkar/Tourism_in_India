@@ -1,0 +1,246 @@
+1
+country	number	mass	region
+2
+Oman	3093	6704.182056	Asia
+3
+United States	1659	90800.88733	N. America
+4
+Libya	1464	1673.3998	Africa
+5
+Australia	638	50805.13183	Oceania
+6
+Algeria	622	2180.62281	Africa
+7
+Chile	404	6312.457391	S. America
+8
+Kenya	227	24.61382	Africa
+9
+Morocco	163	914.43299	Africa
+10
+India	133	1028.7045	Asia
+11
+Russia	130	32069.8619	Asia
+12
+China	101	54960.2348	Asia
+13
+Mexico	94	72378.9552	N. America
+14
+Sweden	79	315.4345	Europe
+15
+France	71	2664.822	Europe
+16
+Argentina	70	53855.1382	S. America
+17
+Western Sahara	66	3328.95699	Africa
+18
+Canada	59	1328.31244	N. America
+19
+Brazil	56	12226.712	S. America
+20
+Japan	51	547.5339	Asia
+21
+Germany	47	1937.8325	Europe
+22
+Tunisia	46	88.77881	Africa
+23
+Egypt	45	1692.01968	Africa
+24
+South Africa	41	2805.525	Africa
+25
+Ukraine	40	782.2892	Europe
+26
+Italy	37	392.7527	Europe
+27
+Niger	34	396.9114	Africa
+28
+Saudi Arabia	30	4172.902298	Asia
+29
+Spain	29	893.588	Europe
+30
+United Arab Emirates	28	4.93	Asia
+31
+Czech Republic	24	359.98786	Europe
+32
+United Kingdom	23	271.428	Europe
+33
+Poland	21	765.9889	Europe
+34
+Namibia	18	86325.0233	Africa
+35
+Indonesia	18	1309.655	Asia
+36
+Nigeria	18	343.414	Africa
+37
+Kazakhstan	16	116.8184	Asia
+38
+Pakistan	15	138.9566	Asia
+39
+Mauritania	14	287.6704	Africa
+40
+Turkey	13	218.843	Asia
+41
+Norway	13	109.1492	Europe
+42
+Finland	12	379.6662	Europe
+43
+Burkina Faso	10	65.037	Africa
+44
+Tanzania	9	16013.9847	Africa
+45
+Mongolia	9	994.4859	Asia
+46
+Romania	9	373.634	Europe
+47
+Mali	8	175.86	Africa
+48
+New Zealand	8	124.2	Oceania
+49
+Bangladesh	8	76.056	Asia
+50
+Switzerland	8	43.1427	Europe
+51
+Hungary	8	12.7262	Europe
+52
+Slovakia	7	783.7	Europe
+53
+Ethiopia	7	344.2814	Africa
+54
+Sudan	7	121.6174	Africa
+55
+Turkmenistan	6	1111.5491	Asia
+56
+Serbia	6	311.127	Europe
+57
+Portugal	6	216.635	Europe
+58
+Uganda	6	158.0787	Africa
+59
+Malawi	6	106.696	Africa
+60
+Denmark	6	58.24581	Europe
+61
+Austria	6	43.854	Europe
+62
+Bulgaria	6	37.05815	Europe
+63
+Belarus	5	1135.246	Europe
+64
+Ireland	5	56.0614	Europe
+65
+Netherlands	5	31.55	Europe
+66
+Belgium	5	22.345	Europe
+67
+Congo - Kinshasa	5	2.079	Africa
+68
+Philippines	4	901.745	Asia
+69
+Croatia	4	62.608	Europe
+70
+Estonia	4	60	Europe
+71
+Lithuania	4	48.989	Europe
+72
+Angola	4	32.883	Africa
+73
+Botswana	4	14.65	Africa
+74
+Greenland	3	58253.888	N. America
+75
+Lesotho	3	252.3	Africa
+76
+Peru	3	145.082	S. America
+77
+Zimbabwe	3	94.4666	Africa
+78
+Venezuela	3	84.59	S. America
+79
+Iran	3	57.774	Asia
+80
+Thailand	3	43.254	Asia
+81
+Vietnam	3	24.6	Asia
+82
+Latvia	3	21.263	Europe
+83
+South Sudan	3	16.555	Africa
+84
+Iraq	3	12	Asia
+85
+Yemen	3	11.4	Asia
+86
+Slovenia	3	9.817	Europe
+87
+Myanmar	3	7.3226	Asia
+88
+Cameroon	3	1.0321	Africa
+89
+Colombia	2	825.478	S. America
+90
+Somalia	2	372	Africa
+91
+Azerbaijan	2	177.2	Europe
+92
+Bolivia	2	12.01237	S. America
+93
+Cambodia	2	7.896	Asia
+94
+Uzbekistan	2	6.3	Asia
+95
+Chad	2	4.5624	Africa
+96
+Armenia	2	3.8262	Europe
+97
+South Korea	2	2.32	Asia
+98
+Uruguay	1	80	S. America
+99
+Jamaica	1	20.5	N. America
+100
+Greece	1	8.5	Europe
+101
+Papua New Guinea	1	7.33	Oceania
+102
+Ecuador	1	6.58	S. America
+103
+Madagascar	1	6	Africa
+104
+Guatemala	1	5.72	N. America
+105
+Sri Lanka	1	4	Asia
+106
+Bosnia and Herzegovina	1	3.9	Europe
+107
+Swaziland	1	3.23	Africa
+108
+Syria	1	3.2	Asia
+109
+Honduras	1	2.7	N. America
+110
+Ghana	1	1.557	Africa
+111
+Cuba	1	1.5	N. America
+112
+Qatar	1	1.5	Asia
+113
+Lebanon	1	1.1	Asia
+114
+Central African Republic	1	1	Africa
+115
+Costa Rica	1	1	N. America
+116
+Jordan	1	0.779	Asia
+117
+Rwanda	1	0.4655	Africa
+118
+R�union	1	0.43	Oceania
+119
+Laos	1	0.367	Asia
+120
+New Caledonia	1	0.347	Oceania
+121
+Afghanistan	1	0.299	Asia
+122
+North Korea	1	0.101	Asia
+123
+Israel	1	0.04	Asia
